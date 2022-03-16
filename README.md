@@ -14,8 +14,14 @@
 - Bu sayfada database üzerine kelime eklemesi yapılır.
 - Kelimeler databaseden alınıp bu sayfada listelenir.
 - Kelimeler üzerinde değişiklik veya kelimeleri kaldırma gibi seçenekler yine bu sayfada gerçekleşir.
+- Sayfa resmi:
+
+![vocablePage](https://github.com/devmutluhan/EnglishTranslationAPI/blob/main/Images/VocablePage.png)
 
 ## Quiz Page
 - Bu sayfada ise database de tutulan kelimelerden random birisi seçilir ve ekrana getirilir.
 - Alt tarafında türkçesi istenir.
 - Cevaba göre doğru veya yanlış geri dönüt verilir.
+- Sayfa resmi:
+
+![quizPage](https://github.com/devmutluhan/EnglishTranslationAPI/blob/main/Images/QuizPage.png)
