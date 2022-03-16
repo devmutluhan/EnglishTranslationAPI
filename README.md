@@ -1,4 +1,6 @@
 # EnglishTranslationAPI
+
+## Proje Detayları
 - Uygulamamız kullanıcıdan aldığı ingilizce ve türkçe kelimelerle, kullanıcının kelime hazinesini geliştirmeyi amaçlar.
 - Proje databasesini ____SQL Server__ oluşturur. SQL Server bağlantısı ____Dapper__ ile gerçekleşir.
 - __Katmanlı Mimari__ ile yazılmıştır.
