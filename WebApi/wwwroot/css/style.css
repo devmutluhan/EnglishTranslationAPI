@@ -1,0 +1,104 @@
+body{
+    background-color:burlywood;
+}
+
+header{
+    height: 240px;
+    background-color:brown;
+}
+
+.nav{
+    margin-top: 10px;
+	margin-left: 10px;
+    background-color: burlywood;
+    border: none;
+    text-align: center;
+    width: 150px;
+    height: 60px;
+    cursor:pointer;
+    color: #555;
+}
+.nav:hover{
+    background-color: tomato;
+}
+
+.get-quiz{
+	margin-left: 5px;
+    margin-bottom: 5px;
+    background-color:burlywood;
+    border: none;
+    border-radius: 2px;
+    width: 98%;
+    padding: 10px;
+    font-size: 16px;
+}
+
+.text-center{
+    text-align: center;
+    font-size: 45px;
+    margin-top: 1px;
+    margin-bottom: 13px;
+    color:burlywood;
+}
+
+.input-container input {
+    margin-left: 5px;
+    margin-bottom: 5px;
+    background-color:burlywood;
+    border: none;
+    border-radius: 2px;
+    width: 98%;
+    padding: 10px;
+    font-size: 16px;
+}
+
+.button{
+    padding: 31.5px;
+    width: 93%;
+    margin-right: 10px;
+    background: burlywood;
+    color: #555;
+    float: right;
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+    transition: 0.3s;
+    border-radius: 0;
+    border: 0;
+}
+.button:hover{
+    background-color: tomato;
+}
+.getting-form{
+    width: 48%;
+    height: 100%;
+    margin: 10px;
+    float: left;
+}
+
+ul li {
+    cursor: pointer;
+    position: relative;
+    padding: 12px 8px 12px 40px;
+    font-size: 18px;
+    list-style-type: none;
+}
+  
+ul li:hover {
+    background: #ddd;
+}
+
+.btn {
+    background-color: burlywood;
+    float: right;
+    margin-top: 2px;
+    margin-right: 8px;
+    width: 23px;
+    text-align: center;
+    border: #eee;
+    cursor: pointer;
+}
+
+.btn:hover{
+    background-color: tomato;
+}
