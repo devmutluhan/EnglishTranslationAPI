@@ -2,7 +2,7 @@
 
 ## Proje Detayları
 - Uygulamamız kullanıcıdan aldığı ingilizce ve türkçe kelimelerle, kullanıcının kelime hazinesini geliştirmeyi amaçlar.
-- Proje databasesini ____SQL Server__ oluşturur. SQL Server bağlantısı ____Dapper__ ile gerçekleşir.
+- Proje databasesini __SQL Server__ oluşturur. SQL Server bağlantısı __Dapper__ ile gerçekleşir.
 - __Katmanlı Mimari__ ile yazılmıştır.
 - __SOLID__ ilkelerine bağlı kalınmıştır.
 - __Dependency Injection__ ile database verilerine __API__ uygulamamız ulaşır.
